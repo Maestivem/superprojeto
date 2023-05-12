@@ -1,0 +1,410 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+.retangulobranco {
+    position: absolute;
+    width: 100%;
+    height: 17%;
+    left: 0%;
+    top: 0%;
+
+    background: #ffffff;
+
+}
+
+.logosenai img {
+    position: absolute;
+    width: 11%;
+    height: 5%;
+    left: 5%;
+    top: 4%;
+
+    background: url(logo-senai2.png);
+}
+
+.morvanfigueredo img {
+    position: absolute;
+    width: 7.8%;
+    height: 3.5%;
+    left: 16.5%;
+    top: 5.6%;
+
+    background: url(logo-senai2.png);
+}
+
+.circularglobo img {
+    position: absolute;
+    width: 4%;
+    height: 6%;
+    left: 94%;
+    top: 4%;
+
+    background: url(image);
+
+}
+
+
+.pp li a:hover {
+    color: #ff0000;
+    opacity: initial;
+}
+
+.menu h1 {
+
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    left: 200%;
+    top: 5%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 89%;
+    top: 5.5%;
+}
+
+nav ul li {
+    display: inline-block;
+    position: relative;
+}
+
+nav ul li a {
+    display: block;
+    color: #000000;
+    text-decoration: none;
+
+
+}
+
+nav ul li:hover>ul {
+    display: block;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: -100%;
+    width: 370%;
+    top: 96%;
+    height: 1050%;
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+
+}
+
+nav ul ul li {
+    display: block;
+}
+
+nav ul ul li a {
+    padding: 10px;
+    color: #59750B;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 135%;
+    line-height: 29px;
+    left: 16000%;
+
+}
+
+.pp span {
+    color: #000000;
+}
+
+
+
+
+.linahs img {
+    position: absolute;
+    width: 1%;
+    height: 2%;
+    left: 87.6%;
+    top: 54px;
+
+    background: url(image.png);
+}
+
+
+.retangulosombra h1 {
+    position: absolute;
+    width: 19%;
+    height: 5%;
+    left: 10%;
+    top: 43%;
+
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 400%;
+    line-height: 100%;
+
+    color: #FFFFFF;
+
+}
+
+.retangulomenu {
+    position: absolute;
+    width: 13%;
+    height: 36%;
+    left: 85%;
+    top: 8%;
+
+    background: #ffffff;
+    border-radius: 10%;
+
+}
+
+.sustentabilidade ul {
+
+    position: absolute;
+    width: 10%;
+    height: 10%;
+    left: 87.5%;
+    top: 11%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 151%;
+    line-height: 10%;
+
+    color: #59750B;
+}
+
+.ColetaSeletiva2 ul {
+
+    position: absolute;
+    width: 10%;
+    height: 10%;
+    left: 87.5%;
+    top: 16%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 151%;
+    line-height: 10%;
+
+    color: #59750B;
+}
+
+.Vocepode ul {
+
+    position: absolute;
+    width: 7%;
+    height: 10%;
+    left: 87.5%;
+    top: 20%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 151%;
+    line-height: 80%;
+
+    color: #59750B;
+}
+
+.planodiretor ul {
+
+    position: absolute;
+    width: 10%;
+    height: 10%;
+    left: 87.5%;
+    top: 27%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 151%;
+    line-height: 80%;
+
+    color: #59750B;
+}
+
+.economiac ul {
+    position: absolute;
+    width: 2%;
+    height: 10%;
+    left: 87.5%;
+    top: 31.9%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 151%;
+    line-height: 80%;
+
+    color: #59750B;
+
+}
+
+.outrosprojetos h1 {
+    position: absolute;
+    width: 10%;
+    height: 10%;
+    left: 87.5%;
+    top: 39.5%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150%;
+    line-height: 19px;
+
+    color: #000000;
+
+}
+.vaca img{
+    position: absolute;
+    width: 100%;
+    height: 85%;
+    top: 12%;
+}
+
+.livia h1{
+position: absolute;
+color: rgb(255, 255, 255);
+top: 55%;
+left: 44%;
+font-family: 'Newsreader';
+font-size: 307%;
+
+
+}
+
+.presevar h2{
+    position: absolute;
+    color: white;
+    top:112%;
+    left: 35%;
+    font-family: 'Newsreader';
+    font-size: 200%;
+    color: #000000;
+    
+}
+.mundial{
+    position: absolute;
+    color: white;
+    top:120%;
+    left: 15%;
+    font-family: 'Newsreader';
+    font-size: 160%;
+    color: #000000;
+    width: 80%;
+}
+.topico{
+    position: absolute;
+    color: white;
+    top:133%;
+    left: 10%;
+    font-family: 'Newsreader';
+    font-size: 160%;
+    color: #000000;
+    width: 50%;
+
+}
+.topico1{
+    position: absolute;
+    color: white;
+    top:140%;
+    left: 10%;
+    font-family: 'Newsreader';
+    font-size: 160%;
+    color: #000000;
+    width: 50%;
+}
+
+.topico2{
+    position: absolute;
+    color: white;
+    top:150%;
+    left: 10%;
+    font-family: 'Newsreader';
+    font-size: 160%;
+    color: #000000;
+    width: 50%; 
+}
+
+.topico2{
+    position: absolute;
+    color: white;
+    top:150%;
+    left: 10%;
+    font-family: 'Newsreader';
+    font-size: 160%;
+    color: #000000;
+    width: 50%; 
+}
+
+.topico3{
+    position: absolute;
+    color: white;
+    top:160%;
+    left: 10%;
+    font-family: 'Newsreader';
+    font-size: 160%;
+    color: #000000;
+    width: 50%; 
+}
+
+.topico4{
+    position: absolute;
+    color: white;
+    top:167%;
+    left: 10%;
+    font-family: 'Newsreader';
+    font-size: 160%;
+    color: #000000;
+    width: 50%; 
+}
+.foto{
+    position: absolute;
+    width: 10%;
+    height: 10%;
+    top: 130%;
+    left: 60%;
+}
+
+.cleito {
+
+   box-sizing:border-box ;
+   position: absolute;
+   width: 54%;
+   height: 45%;
+   left: 7%;
+   top: 130%;
+   background: rgb(255, 255, 255,0.1);
+   border: 5px solid rgb(100, 202, 216);
+   border-radius: 34px;
+
+
+}
+
+
+
+
+
